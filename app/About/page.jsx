@@ -1,11 +1,11 @@
 import React from 'react'
 
-function page() {
+function About() {
   return (
-    <div>
+    <div className='text-center'>
       About
     </div>
   )
 }
 
-export default page
+export default About
